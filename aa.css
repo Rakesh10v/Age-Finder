@@ -1,0 +1,9 @@
+body{
+    background-color: goldenrod;
+}
+fieldset{
+    background-color: wheat;
+    position: relative;
+    top: 200px;
+    padding: 80px;
+}
